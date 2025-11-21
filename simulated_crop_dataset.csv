@@ -1,0 +1,1369 @@
+District,Season,Crop,Area (Ha),Production (Tonnes),Yield (Tonnes/Ha)
+Thiruvarur,Kharif,Rice,4818,16811.77,3.49
+Thiruvarur,Kharif,Maize,2608,3978.48,1.53
+Thiruvarur,Kharif,Sorghum,3831,7461.74,1.95
+Thiruvarur,Kharif,Finger Millet,4611,10535.73,2.28
+Thiruvarur,Kharif,Pearl Millet,1338,3596.57,2.69
+Thiruvarur,Kharif,Foxtail Millet,2002,5859.69,2.93
+Thiruvarur,Kharif,Groundnut,4967,7371.52,1.48
+Thiruvarur,Kharif,Sunflower,1245,1874.03,1.51
+Thiruvarur,Kharif,Sesame,2327,3460.2,1.49
+Thiruvarur,Kharif,Cotton,3816,6150.99,1.61
+Thiruvarur,Kharif,Sugarcane,1103,1772.54,1.61
+Thiruvarur,Kharif,Turmeric,3590,8563.18,2.39
+Thiruvarur,Kharif,Onion,4220,14652.96,3.47
+Thiruvarur,Kharif,Tomato,1224,2957.87,2.42
+Thiruvarur,Kharif,Chili,2310,4431.31,1.92
+Thiruvarur,Kharif,Banana,3303,10503.58,3.18
+Thiruvarur,Kharif,Coconut,3606,8776.17,2.43
+Thiruvarur,Kharif,Black Gram,3796,8793.31,2.32
+Thiruvarur,Kharif,Green Gram,600,2025.01,3.38
+Thiruvarur,Kharif,Bengal Gram,1320,2693.8,2.04
+Thiruvarur,Kharif,Brinjal,2597,7425.49,2.86
+Thiruvarur,Kharif,Okra,3462,9684.02,2.8
+Thiruvarur,Kharif,Tapioca,2158,5907.78,2.74
+Thiruvarur,Kharif,Horse Gram,4586,12405.55,2.71
+Thiruvarur,Rabi,Rice,1249,1904.1,1.52
+Thiruvarur,Rabi,Maize,2709,5073.78,1.87
+Thiruvarur,Rabi,Sorghum,4744,11574.61,2.44
+Thiruvarur,Rabi,Finger Millet,2268,6518.21,2.87
+Thiruvarur,Rabi,Pearl Millet,3429,5051.82,1.47
+Thiruvarur,Rabi,Foxtail Millet,2477,5335.46,2.15
+Thiruvarur,Rabi,Groundnut,4869,15696.59,3.22
+Thiruvarur,Rabi,Sunflower,966,1815.54,1.88
+Thiruvarur,Rabi,Sesame,4489,7293.54,1.62
+Thiruvarur,Rabi,Cotton,2173,4669.48,2.15
+Thiruvarur,Rabi,Sugarcane,2233,5815.36,2.6
+Thiruvarur,Rabi,Turmeric,3239,9164.63,2.83
+Thiruvarur,Rabi,Onion,2803,7634.08,2.72
+Thiruvarur,Rabi,Tomato,2378,6357.18,2.67
+Thiruvarur,Rabi,Chili,1874,5539.72,2.96
+Thiruvarur,Rabi,Banana,1444,4826.63,3.34
+Thiruvarur,Rabi,Coconut,587,706.05,1.2
+Thiruvarur,Rabi,Black Gram,1512,4002.1,2.65
+Thiruvarur,Rabi,Green Gram,2878,7201.94,2.5
+Thiruvarur,Rabi,Bengal Gram,3940,8812.39,2.24
+Thiruvarur,Rabi,Brinjal,1735,5733.67,3.3
+Thiruvarur,Rabi,Okra,2648,7784.69,2.94
+Thiruvarur,Rabi,Tapioca,4637,8340.85,1.8
+Thiruvarur,Rabi,Horse Gram,1497,2508.09,1.68
+Thiruvarur,Summer,Rice,3688,5122.54,1.39
+Thiruvarur,Summer,Maize,2974,5804.65,1.95
+Thiruvarur,Summer,Sorghum,4287,13762.07,3.21
+Thiruvarur,Summer,Finger Millet,2418,3978.61,1.65
+Thiruvarur,Summer,Pearl Millet,1926,4781.69,2.48
+Thiruvarur,Summer,Foxtail Millet,4090,9911.85,2.42
+Thiruvarur,Summer,Groundnut,2780,5235.03,1.88
+Thiruvarur,Summer,Sunflower,2166,6606.89,3.05
+Thiruvarur,Summer,Sesame,1178,2931.2,2.49
+Thiruvarur,Summer,Cotton,4639,12894.62,2.78
+Thiruvarur,Summer,Sugarcane,2339,4437.95,1.9
+Thiruvarur,Summer,Turmeric,573,1080.61,1.89
+Thiruvarur,Summer,Onion,3142,6771.72,2.16
+Thiruvarur,Summer,Tomato,4929,10813.95,2.19
+Thiruvarur,Summer,Chili,2896,8446.25,2.92
+Thiruvarur,Summer,Banana,903,3138.41,3.48
+Thiruvarur,Summer,Coconut,2161,5895.78,2.73
+Thiruvarur,Summer,Black Gram,1411,1885.44,1.34
+Thiruvarur,Summer,Green Gram,4824,9633.81,2.0
+Thiruvarur,Summer,Bengal Gram,3205,5031.92,1.57
+Thiruvarur,Summer,Brinjal,1533,5328.98,3.48
+Thiruvarur,Summer,Okra,1738,3548.5,2.04
+Thiruvarur,Summer,Tapioca,1428,1731.12,1.21
+Thiruvarur,Summer,Horse Gram,3609,6745.86,1.87
+Mayiladuthurai,Kharif,Rice,776,982.65,1.27
+Mayiladuthurai,Kharif,Maize,898,2273.87,2.53
+Mayiladuthurai,Kharif,Sorghum,2248,4445.82,1.98
+Mayiladuthurai,Kharif,Finger Millet,4880,13436.34,2.75
+Mayiladuthurai,Kharif,Pearl Millet,3049,4881.82,1.6
+Mayiladuthurai,Kharif,Foxtail Millet,3223,6094.37,1.89
+Mayiladuthurai,Kharif,Groundnut,3478,4394.6,1.26
+Mayiladuthurai,Kharif,Sunflower,1285,2470.67,1.92
+Mayiladuthurai,Kharif,Sesame,1752,5099.86,2.91
+Mayiladuthurai,Kharif,Cotton,1325,3308.74,2.5
+Mayiladuthurai,Kharif,Sugarcane,1144,3568.16,3.12
+Mayiladuthurai,Kharif,Turmeric,713,928.84,1.3
+Mayiladuthurai,Kharif,Onion,2180,3109.05,1.43
+Mayiladuthurai,Kharif,Tomato,673,815.38,1.21
+Mayiladuthurai,Kharif,Chili,4475,11943.93,2.67
+Mayiladuthurai,Kharif,Banana,3152,10139.06,3.22
+Mayiladuthurai,Kharif,Coconut,2634,3456.73,1.31
+Mayiladuthurai,Kharif,Black Gram,3817,9084.81,2.38
+Mayiladuthurai,Kharif,Green Gram,4462,13992.92,3.14
+Mayiladuthurai,Kharif,Bengal Gram,1732,5586.68,3.23
+Mayiladuthurai,Kharif,Brinjal,2512,4145.07,1.65
+Mayiladuthurai,Kharif,Okra,1420,4472.91,3.15
+Mayiladuthurai,Kharif,Tapioca,529,754.05,1.43
+Mayiladuthurai,Kharif,Horse Gram,3868,8354.35,2.16
+Mayiladuthurai,Rabi,Rice,1766,2808.07,1.59
+Mayiladuthurai,Rabi,Maize,2838,9017.93,3.18
+Mayiladuthurai,Rabi,Sorghum,2305,6541.74,2.84
+Mayiladuthurai,Rabi,Finger Millet,1221,4258.74,3.49
+Mayiladuthurai,Rabi,Pearl Millet,3220,10199.76,3.17
+Mayiladuthurai,Rabi,Foxtail Millet,4504,15233.56,3.38
+Mayiladuthurai,Rabi,Groundnut,4411,9806.41,2.22
+Mayiladuthurai,Rabi,Sunflower,1057,1856.18,1.76
+Mayiladuthurai,Rabi,Sesame,3216,6687.83,2.08
+Mayiladuthurai,Rabi,Cotton,2713,3299.96,1.22
+Mayiladuthurai,Rabi,Sugarcane,2517,6194.34,2.46
+Mayiladuthurai,Rabi,Turmeric,2164,3275.05,1.51
+Mayiladuthurai,Rabi,Onion,2510,3168.16,1.26
+Mayiladuthurai,Rabi,Tomato,4085,8273.69,2.03
+Mayiladuthurai,Rabi,Chili,4364,8546.78,1.96
+Mayiladuthurai,Rabi,Banana,4407,15392.35,3.49
+Mayiladuthurai,Rabi,Coconut,1848,5926.18,3.21
+Mayiladuthurai,Rabi,Black Gram,2311,4314.57,1.87
+Mayiladuthurai,Rabi,Green Gram,2309,5696.74,2.47
+Mayiladuthurai,Rabi,Bengal Gram,2285,3280.03,1.44
+Mayiladuthurai,Rabi,Brinjal,3654,6492.06,1.78
+Mayiladuthurai,Rabi,Okra,4303,14244.83,3.31
+Mayiladuthurai,Rabi,Tapioca,677,1016.71,1.5
+Mayiladuthurai,Rabi,Horse Gram,1453,3970.96,2.73
+Mayiladuthurai,Summer,Rice,2683,6437.03,2.4
+Mayiladuthurai,Summer,Maize,4583,9966.31,2.17
+Mayiladuthurai,Summer,Sorghum,1105,3338.41,3.02
+Mayiladuthurai,Summer,Finger Millet,1171,1902.12,1.62
+Mayiladuthurai,Summer,Pearl Millet,2638,6167.83,2.34
+Mayiladuthurai,Summer,Foxtail Millet,1706,3524.6,2.07
+Mayiladuthurai,Summer,Groundnut,4966,9664.35,1.95
+Mayiladuthurai,Summer,Sunflower,1373,1747.53,1.27
+Mayiladuthurai,Summer,Sesame,2318,4498.49,1.94
+Mayiladuthurai,Summer,Cotton,2763,6649.38,2.41
+Mayiladuthurai,Summer,Sugarcane,2155,6830.97,3.17
+Mayiladuthurai,Summer,Turmeric,1270,4137.78,3.26
+Mayiladuthurai,Summer,Onion,3188,8398.19,2.63
+Mayiladuthurai,Summer,Tomato,2405,3286.46,1.37
+Mayiladuthurai,Summer,Chili,4908,17083.26,3.48
+Mayiladuthurai,Summer,Banana,2934,7298.9,2.49
+Mayiladuthurai,Summer,Coconut,4657,14244.32,3.06
+Mayiladuthurai,Summer,Black Gram,2122,4945.15,2.33
+Mayiladuthurai,Summer,Green Gram,666,2294.78,3.45
+Mayiladuthurai,Summer,Bengal Gram,2134,7343.71,3.44
+Mayiladuthurai,Summer,Brinjal,1979,6248.53,3.16
+Mayiladuthurai,Summer,Okra,2347,3409.21,1.45
+Mayiladuthurai,Summer,Tapioca,880,1733.34,1.97
+Mayiladuthurai,Summer,Horse Gram,4658,9581.77,2.06
+Tiruvallur,Kharif,Rice,3163,7896.69,2.5
+Tiruvallur,Kharif,Maize,4793,12621.57,2.63
+Tiruvallur,Kharif,Sorghum,951,2390.07,2.51
+Tiruvallur,Kharif,Finger Millet,4837,11209.89,2.32
+Tiruvallur,Kharif,Pearl Millet,3490,9935.86,2.85
+Tiruvallur,Kharif,Foxtail Millet,1197,3865.43,3.23
+Tiruvallur,Kharif,Groundnut,724,1537.46,2.12
+Tiruvallur,Kharif,Sunflower,3626,9644.61,2.66
+Tiruvallur,Kharif,Sesame,851,2008.53,2.36
+Tiruvallur,Kharif,Cotton,4695,11247.17,2.4
+Tiruvallur,Kharif,Sugarcane,1966,5498.29,2.8
+Tiruvallur,Kharif,Turmeric,4697,15732.89,3.35
+Tiruvallur,Kharif,Onion,2348,6281.56,2.68
+Tiruvallur,Kharif,Tomato,4941,9180.07,1.86
+Tiruvallur,Kharif,Chili,1260,1985.45,1.58
+Tiruvallur,Kharif,Banana,1713,4589.58,2.68
+Tiruvallur,Kharif,Coconut,1976,3744.7,1.9
+Tiruvallur,Kharif,Black Gram,863,1210.65,1.4
+Tiruvallur,Kharif,Green Gram,1241,1689.41,1.36
+Tiruvallur,Kharif,Bengal Gram,1110,2813.8,2.53
+Tiruvallur,Kharif,Brinjal,3725,9073.57,2.44
+Tiruvallur,Kharif,Okra,4347,5430.67,1.25
+Tiruvallur,Kharif,Tapioca,4982,7231.99,1.45
+Tiruvallur,Kharif,Horse Gram,1052,3492.72,3.32
+Tiruvallur,Rabi,Rice,1057,3461.43,3.27
+Tiruvallur,Rabi,Maize,4462,6952.37,1.56
+Tiruvallur,Rabi,Sorghum,4380,6359.39,1.45
+Tiruvallur,Rabi,Finger Millet,1230,4166.54,3.39
+Tiruvallur,Rabi,Pearl Millet,969,2278.96,2.35
+Tiruvallur,Rabi,Foxtail Millet,1630,2710.59,1.66
+Tiruvallur,Rabi,Groundnut,1945,4389.32,2.26
+Tiruvallur,Rabi,Sunflower,4888,6100.35,1.25
+Tiruvallur,Rabi,Sesame,4970,12184.18,2.45
+Tiruvallur,Rabi,Cotton,4076,10275.1,2.52
+Tiruvallur,Rabi,Sugarcane,4498,11224.46,2.5
+Tiruvallur,Rabi,Turmeric,2660,6047.64,2.27
+Tiruvallur,Rabi,Onion,4353,7590.76,1.74
+Tiruvallur,Rabi,Tomato,1162,2729.59,2.35
+Tiruvallur,Rabi,Chili,916,1616.63,1.76
+Tiruvallur,Rabi,Banana,973,2599.63,2.67
+Tiruvallur,Rabi,Coconut,2479,5800.84,2.34
+Tiruvallur,Rabi,Black Gram,2828,7423.11,2.62
+Tiruvallur,Rabi,Green Gram,2300,6584.71,2.86
+Tiruvallur,Rabi,Bengal Gram,3649,5627.88,1.54
+Tiruvallur,Rabi,Brinjal,3063,8349.23,2.73
+Tiruvallur,Rabi,Okra,4708,16152.76,3.43
+Tiruvallur,Rabi,Tapioca,817,1772.9,2.17
+Tiruvallur,Rabi,Horse Gram,2262,7643.5,3.38
+Tiruvallur,Summer,Rice,2549,4342.92,1.7
+Tiruvallur,Summer,Maize,4467,5917.29,1.32
+Tiruvallur,Summer,Sorghum,1663,2503.44,1.51
+Tiruvallur,Summer,Finger Millet,1562,1937.93,1.24
+Tiruvallur,Summer,Pearl Millet,4473,15348.67,3.43
+Tiruvallur,Summer,Foxtail Millet,1838,2699.58,1.47
+Tiruvallur,Summer,Groundnut,565,1506.65,2.67
+Tiruvallur,Summer,Sunflower,1544,4815.69,3.12
+Tiruvallur,Summer,Sesame,649,1658.43,2.56
+Tiruvallur,Summer,Cotton,1218,4250.24,3.49
+Tiruvallur,Summer,Sugarcane,1409,4822.0,3.42
+Tiruvallur,Summer,Turmeric,2122,5156.49,2.43
+Tiruvallur,Summer,Onion,1903,6352.4,3.34
+Tiruvallur,Summer,Tomato,1264,1567.4,1.24
+Tiruvallur,Summer,Chili,2112,3361.55,1.59
+Tiruvallur,Summer,Banana,3041,8025.19,2.64
+Tiruvallur,Summer,Coconut,2039,4269.74,2.09
+Tiruvallur,Summer,Black Gram,852,2067.49,2.43
+Tiruvallur,Summer,Green Gram,2732,5333.03,1.95
+Tiruvallur,Summer,Bengal Gram,3115,9455.3,3.04
+Tiruvallur,Summer,Brinjal,4257,7407.21,1.74
+Tiruvallur,Summer,Okra,3969,11136.7,2.81
+Tiruvallur,Summer,Tapioca,2465,8106.63,3.29
+Tiruvallur,Summer,Horse Gram,1842,6017.49,3.27
+Tiruvannamalai,Kharif,Rice,2041,2940.32,1.44
+Tiruvannamalai,Kharif,Maize,4513,10318.6,2.29
+Tiruvannamalai,Kharif,Sorghum,858,1069.54,1.25
+Tiruvannamalai,Kharif,Finger Millet,1338,2944.8,2.2
+Tiruvannamalai,Kharif,Pearl Millet,3711,5257.09,1.42
+Tiruvannamalai,Kharif,Foxtail Millet,1813,5261.85,2.9
+Tiruvannamalai,Kharif,Groundnut,572,2000.27,3.5
+Tiruvannamalai,Kharif,Sunflower,551,682.85,1.24
+Tiruvannamalai,Kharif,Sesame,4643,8401.57,1.81
+Tiruvannamalai,Kharif,Cotton,655,1648.96,2.52
+Tiruvannamalai,Kharif,Sugarcane,1354,2767.82,2.04
+Tiruvannamalai,Kharif,Turmeric,2915,8700.48,2.98
+Tiruvannamalai,Kharif,Onion,1823,5104.99,2.8
+Tiruvannamalai,Kharif,Tomato,4683,8725.61,1.86
+Tiruvannamalai,Kharif,Chili,3328,9123.93,2.74
+Tiruvannamalai,Kharif,Banana,793,1012.09,1.28
+Tiruvannamalai,Kharif,Coconut,860,1669.16,1.94
+Tiruvannamalai,Kharif,Black Gram,3596,11385.45,3.17
+Tiruvannamalai,Kharif,Green Gram,2978,7127.67,2.39
+Tiruvannamalai,Kharif,Bengal Gram,3152,7302.93,2.32
+Tiruvannamalai,Kharif,Brinjal,1992,4731.86,2.38
+Tiruvannamalai,Kharif,Okra,1696,3323.75,1.96
+Tiruvannamalai,Kharif,Tapioca,1652,4383.22,2.65
+Tiruvannamalai,Kharif,Horse Gram,4966,13692.13,2.76
+Tiruvannamalai,Rabi,Rice,1388,3465.34,2.5
+Tiruvannamalai,Rabi,Maize,3659,11995.81,3.28
+Tiruvannamalai,Rabi,Sorghum,3293,8594.03,2.61
+Tiruvannamalai,Rabi,Finger Millet,2004,3884.07,1.94
+Tiruvannamalai,Rabi,Pearl Millet,503,756.08,1.5
+Tiruvannamalai,Rabi,Foxtail Millet,2953,5618.71,1.9
+Tiruvannamalai,Rabi,Groundnut,1430,4646.97,3.25
+Tiruvannamalai,Rabi,Sunflower,3430,9009.64,2.63
+Tiruvannamalai,Rabi,Sesame,1799,4580.61,2.55
+Tiruvannamalai,Rabi,Cotton,2663,4939.18,1.85
+Tiruvannamalai,Rabi,Sugarcane,3446,11685.41,3.39
+Tiruvannamalai,Rabi,Turmeric,1591,2657.74,1.67
+Tiruvannamalai,Rabi,Onion,985,1678.47,1.7
+Tiruvannamalai,Rabi,Tomato,3458,6817.39,1.97
+Tiruvannamalai,Rabi,Chili,1804,5475.76,3.04
+Tiruvannamalai,Rabi,Banana,3580,7878.93,2.2
+Tiruvannamalai,Rabi,Coconut,1813,5194.74,2.87
+Tiruvannamalai,Rabi,Black Gram,4592,10303.85,2.24
+Tiruvannamalai,Rabi,Green Gram,2039,4688.44,2.3
+Tiruvannamalai,Rabi,Bengal Gram,1322,4423.11,3.35
+Tiruvannamalai,Rabi,Brinjal,2904,7327.26,2.52
+Tiruvannamalai,Rabi,Okra,978,2524.97,2.58
+Tiruvannamalai,Rabi,Tapioca,3337,11617.99,3.48
+Tiruvannamalai,Rabi,Horse Gram,3771,9633.97,2.55
+Tiruvannamalai,Summer,Rice,4035,8116.74,2.01
+Tiruvannamalai,Summer,Maize,836,1003.9,1.2
+Tiruvannamalai,Summer,Sorghum,2643,9140.76,3.46
+Tiruvannamalai,Summer,Finger Millet,778,1119.63,1.44
+Tiruvannamalai,Summer,Pearl Millet,3868,5081.7,1.31
+Tiruvannamalai,Summer,Foxtail Millet,3103,5336.47,1.72
+Tiruvannamalai,Summer,Groundnut,2558,4840.16,1.89
+Tiruvannamalai,Summer,Sunflower,3784,9715.77,2.57
+Tiruvannamalai,Summer,Sesame,2371,3271.36,1.38
+Tiruvannamalai,Summer,Cotton,4880,12275.39,2.52
+Tiruvannamalai,Summer,Sugarcane,4162,10739.0,2.58
+Tiruvannamalai,Summer,Turmeric,1773,3824.02,2.16
+Tiruvannamalai,Summer,Onion,4659,8608.84,1.85
+Tiruvannamalai,Summer,Tomato,2540,7331.38,2.89
+Tiruvannamalai,Summer,Chili,1621,5458.86,3.37
+Tiruvannamalai,Summer,Banana,4616,9062.52,1.96
+Tiruvannamalai,Summer,Coconut,4409,6463.17,1.47
+Tiruvannamalai,Summer,Black Gram,3767,5708.94,1.52
+Tiruvannamalai,Summer,Green Gram,4921,6728.33,1.37
+Tiruvannamalai,Summer,Bengal Gram,4110,14259.35,3.47
+Tiruvannamalai,Summer,Brinjal,2142,7214.73,3.37
+Tiruvannamalai,Summer,Okra,1906,2740.59,1.44
+Tiruvannamalai,Summer,Tapioca,734,1289.05,1.76
+Tiruvannamalai,Summer,Horse Gram,1097,2606.42,2.38
+Krishnagiri,Kharif,Rice,4571,13999.1,3.06
+Krishnagiri,Kharif,Maize,2978,4137.8,1.39
+Krishnagiri,Kharif,Sorghum,3758,10196.29,2.71
+Krishnagiri,Kharif,Finger Millet,3492,8898.91,2.55
+Krishnagiri,Kharif,Pearl Millet,1173,2741.74,2.34
+Krishnagiri,Kharif,Foxtail Millet,3893,7843.11,2.01
+Krishnagiri,Kharif,Groundnut,1396,3699.54,2.65
+Krishnagiri,Kharif,Sunflower,4901,5964.86,1.22
+Krishnagiri,Kharif,Sesame,2487,5956.51,2.4
+Krishnagiri,Kharif,Cotton,3271,4847.4,1.48
+Krishnagiri,Kharif,Sugarcane,2139,6178.51,2.89
+Krishnagiri,Kharif,Turmeric,583,1168.27,2.0
+Krishnagiri,Kharif,Onion,4197,11363.87,2.71
+Krishnagiri,Kharif,Tomato,3391,10867.93,3.2
+Krishnagiri,Kharif,Chili,3528,5209.89,1.48
+Krishnagiri,Kharif,Banana,2061,3393.01,1.65
+Krishnagiri,Kharif,Coconut,1194,2676.34,2.24
+Krishnagiri,Kharif,Black Gram,569,1641.38,2.88
+Krishnagiri,Kharif,Green Gram,4646,6670.09,1.44
+Krishnagiri,Kharif,Bengal Gram,4786,10812.94,2.26
+Krishnagiri,Kharif,Brinjal,4712,14052.21,2.98
+Krishnagiri,Kharif,Okra,2454,6746.09,2.75
+Krishnagiri,Kharif,Tapioca,3151,4498.74,1.43
+Krishnagiri,Kharif,Horse Gram,535,1307.97,2.44
+Krishnagiri,Rabi,Rice,1956,4456.95,2.28
+Krishnagiri,Rabi,Maize,2136,4572.17,2.14
+Krishnagiri,Rabi,Sorghum,1699,4390.06,2.58
+Krishnagiri,Rabi,Finger Millet,2622,7200.44,2.75
+Krishnagiri,Rabi,Pearl Millet,1967,4952.03,2.52
+Krishnagiri,Rabi,Foxtail Millet,835,2809.05,3.36
+Krishnagiri,Rabi,Groundnut,1028,2791.42,2.72
+Krishnagiri,Rabi,Sunflower,4060,5702.4,1.4
+Krishnagiri,Rabi,Sesame,3374,7887.13,2.34
+Krishnagiri,Rabi,Cotton,1102,2591.69,2.35
+Krishnagiri,Rabi,Sugarcane,780,1922.34,2.46
+Krishnagiri,Rabi,Turmeric,4108,13554.25,3.3
+Krishnagiri,Rabi,Onion,2404,7294.39,3.03
+Krishnagiri,Rabi,Tomato,4286,11860.78,2.77
+Krishnagiri,Rabi,Chili,2437,7967.31,3.27
+Krishnagiri,Rabi,Banana,3143,10927.5,3.48
+Krishnagiri,Rabi,Coconut,1551,3455.2,2.23
+Krishnagiri,Rabi,Black Gram,4099,5952.79,1.45
+Krishnagiri,Rabi,Green Gram,4478,6455.62,1.44
+Krishnagiri,Rabi,Bengal Gram,3558,7054.0,1.98
+Krishnagiri,Rabi,Brinjal,666,1341.65,2.01
+Krishnagiri,Rabi,Okra,3694,11270.41,3.05
+Krishnagiri,Rabi,Tapioca,4396,6672.03,1.52
+Krishnagiri,Rabi,Horse Gram,1817,3213.54,1.77
+Krishnagiri,Summer,Rice,3965,8108.64,2.05
+Krishnagiri,Summer,Maize,4337,11707.14,2.7
+Krishnagiri,Summer,Sorghum,1261,3859.5,3.06
+Krishnagiri,Summer,Finger Millet,1185,3804.94,3.21
+Krishnagiri,Summer,Pearl Millet,3957,12305.24,3.11
+Krishnagiri,Summer,Foxtail Millet,1166,1638.86,1.41
+Krishnagiri,Summer,Groundnut,991,2140.74,2.16
+Krishnagiri,Summer,Sunflower,4461,10897.07,2.44
+Krishnagiri,Summer,Sesame,2584,7175.89,2.78
+Krishnagiri,Summer,Cotton,2252,5983.89,2.66
+Krishnagiri,Summer,Sugarcane,2438,4279.53,1.76
+Krishnagiri,Summer,Turmeric,749,2507.63,3.35
+Krishnagiri,Summer,Onion,2000,5610.39,2.81
+Krishnagiri,Summer,Tomato,2684,9066.61,3.38
+Krishnagiri,Summer,Chili,1815,5464.11,3.01
+Krishnagiri,Summer,Banana,947,3156.3,3.33
+Krishnagiri,Summer,Coconut,1878,5973.84,3.18
+Krishnagiri,Summer,Black Gram,2081,4782.31,2.3
+Krishnagiri,Summer,Green Gram,2453,6334.9,2.58
+Krishnagiri,Summer,Bengal Gram,4625,14185.84,3.07
+Krishnagiri,Summer,Brinjal,2513,7579.8,3.02
+Krishnagiri,Summer,Okra,1877,3399.36,1.81
+Krishnagiri,Summer,Tapioca,4740,16402.41,3.46
+Krishnagiri,Summer,Horse Gram,1818,3840.36,2.11
+Dharmapuri,Kharif,Rice,2600,8644.3,3.32
+Dharmapuri,Kharif,Maize,2249,5486.9,2.44
+Dharmapuri,Kharif,Sorghum,4891,10825.93,2.21
+Dharmapuri,Kharif,Finger Millet,742,1440.65,1.94
+Dharmapuri,Kharif,Pearl Millet,608,1483.41,2.44
+Dharmapuri,Kharif,Foxtail Millet,915,3154.58,3.45
+Dharmapuri,Kharif,Groundnut,3523,6408.92,1.82
+Dharmapuri,Kharif,Sunflower,1197,2306.88,1.93
+Dharmapuri,Kharif,Sesame,1185,2181.49,1.84
+Dharmapuri,Kharif,Cotton,1562,3448.72,2.21
+Dharmapuri,Kharif,Sugarcane,3344,7923.84,2.37
+Dharmapuri,Kharif,Turmeric,1337,3909.98,2.92
+Dharmapuri,Kharif,Onion,505,681.24,1.35
+Dharmapuri,Kharif,Tomato,4750,7590.24,1.6
+Dharmapuri,Kharif,Chili,3283,4912.86,1.5
+Dharmapuri,Kharif,Banana,4869,15989.64,3.28
+Dharmapuri,Kharif,Coconut,2481,7598.14,3.06
+Dharmapuri,Kharif,Black Gram,2905,5964.13,2.05
+Dharmapuri,Kharif,Green Gram,687,941.52,1.37
+Dharmapuri,Kharif,Bengal Gram,1610,4272.86,2.65
+Dharmapuri,Kharif,Brinjal,584,1184.12,2.03
+Dharmapuri,Kharif,Okra,1215,1484.3,1.22
+Dharmapuri,Kharif,Tapioca,3307,8127.31,2.46
+Dharmapuri,Kharif,Horse Gram,2854,7493.92,2.63
+Dharmapuri,Rabi,Rice,4246,5133.61,1.21
+Dharmapuri,Rabi,Maize,4884,8014.44,1.64
+Dharmapuri,Rabi,Sorghum,2398,7430.88,3.1
+Dharmapuri,Rabi,Finger Millet,3922,8675.54,2.21
+Dharmapuri,Rabi,Pearl Millet,2538,3573.79,1.41
+Dharmapuri,Rabi,Foxtail Millet,2623,7319.84,2.79
+Dharmapuri,Rabi,Groundnut,1396,2015.27,1.44
+Dharmapuri,Rabi,Sunflower,4608,15123.71,3.28
+Dharmapuri,Rabi,Sesame,4975,16141.9,3.24
+Dharmapuri,Rabi,Cotton,2444,7918.08,3.24
+Dharmapuri,Rabi,Sugarcane,4461,6585.68,1.48
+Dharmapuri,Rabi,Turmeric,2093,4675.33,2.23
+Dharmapuri,Rabi,Onion,3186,8506.11,2.67
+Dharmapuri,Rabi,Tomato,1908,6467.24,3.39
+Dharmapuri,Rabi,Chili,4280,14522.72,3.39
+Dharmapuri,Rabi,Banana,889,1387.7,1.56
+Dharmapuri,Rabi,Coconut,2340,6229.52,2.66
+Dharmapuri,Rabi,Black Gram,4604,5580.96,1.21
+Dharmapuri,Rabi,Green Gram,3596,6473.92,1.8
+Dharmapuri,Rabi,Bengal Gram,2179,7569.07,3.47
+Dharmapuri,Rabi,Brinjal,3570,4340.4,1.22
+Dharmapuri,Rabi,Okra,4044,11483.96,2.84
+Dharmapuri,Rabi,Tapioca,1151,3355.15,2.91
+Dharmapuri,Rabi,Horse Gram,1533,3715.99,2.42
+Dharmapuri,Summer,Rice,1707,2461.55,1.44
+Dharmapuri,Summer,Maize,3420,8077.72,2.36
+Dharmapuri,Summer,Sorghum,4976,6540.06,1.31
+Dharmapuri,Summer,Finger Millet,922,2078.48,2.25
+Dharmapuri,Summer,Pearl Millet,4258,13470.18,3.16
+Dharmapuri,Summer,Foxtail Millet,1559,4572.21,2.93
+Dharmapuri,Summer,Groundnut,3342,5688.42,1.7
+Dharmapuri,Summer,Sunflower,2798,7095.41,2.54
+Dharmapuri,Summer,Sesame,2806,9740.07,3.47
+Dharmapuri,Summer,Cotton,4213,5278.48,1.25
+Dharmapuri,Summer,Sugarcane,2875,8990.2,3.13
+Dharmapuri,Summer,Turmeric,1422,2654.09,1.87
+Dharmapuri,Summer,Onion,4344,5219.4,1.2
+Dharmapuri,Summer,Tomato,4650,7638.5,1.64
+Dharmapuri,Summer,Chili,1550,1994.62,1.29
+Dharmapuri,Summer,Banana,4098,6403.15,1.56
+Dharmapuri,Summer,Coconut,2207,5975.99,2.71
+Dharmapuri,Summer,Black Gram,2847,9549.7,3.35
+Dharmapuri,Summer,Green Gram,1939,5696.02,2.94
+Dharmapuri,Summer,Bengal Gram,785,979.67,1.25
+Dharmapuri,Summer,Brinjal,3696,11582.13,3.13
+Dharmapuri,Summer,Okra,4680,6224.22,1.33
+Dharmapuri,Summer,Tapioca,3452,7649.64,2.22
+Dharmapuri,Summer,Horse Gram,4744,12880.88,2.72
+Erode,Kharif,Rice,4302,10328.25,2.4
+Erode,Kharif,Maize,3500,10317.67,2.95
+Erode,Kharif,Sorghum,2753,6760.34,2.46
+Erode,Kharif,Finger Millet,2959,9317.0,3.15
+Erode,Kharif,Pearl Millet,4806,10951.97,2.28
+Erode,Kharif,Foxtail Millet,4954,9124.62,1.84
+Erode,Kharif,Groundnut,689,1182.51,1.72
+Erode,Kharif,Sunflower,3696,7110.34,1.92
+Erode,Kharif,Sesame,3638,8564.35,2.35
+Erode,Kharif,Cotton,4422,7994.16,1.81
+Erode,Kharif,Sugarcane,1253,2208.41,1.76
+Erode,Kharif,Turmeric,841,2481.9,2.95
+Erode,Kharif,Onion,4144,10661.41,2.57
+Erode,Kharif,Tomato,3099,10375.74,3.35
+Erode,Kharif,Chili,2514,7805.01,3.1
+Erode,Kharif,Banana,4852,12154.86,2.51
+Erode,Kharif,Coconut,808,1415.62,1.75
+Erode,Kharif,Black Gram,1217,3371.72,2.77
+Erode,Kharif,Green Gram,4812,11905.32,2.47
+Erode,Kharif,Bengal Gram,3528,10878.18,3.08
+Erode,Kharif,Brinjal,4940,10164.53,2.06
+Erode,Kharif,Okra,1939,4482.45,2.31
+Erode,Kharif,Tapioca,3106,9197.49,2.96
+Erode,Kharif,Horse Gram,2623,3915.81,1.49
+Erode,Rabi,Rice,2016,4019.88,1.99
+Erode,Rabi,Maize,4024,10964.68,2.72
+Erode,Rabi,Sorghum,3157,5025.89,1.59
+Erode,Rabi,Finger Millet,4621,15794.99,3.42
+Erode,Rabi,Pearl Millet,2182,7362.43,3.37
+Erode,Rabi,Foxtail Millet,975,2590.66,2.66
+Erode,Rabi,Groundnut,2789,8690.46,3.12
+Erode,Rabi,Sunflower,2245,4034.38,1.8
+Erode,Rabi,Sesame,611,1912.03,3.13
+Erode,Rabi,Cotton,4955,10875.79,2.19
+Erode,Rabi,Sugarcane,3835,5036.14,1.31
+Erode,Rabi,Turmeric,2712,4354.19,1.61
+Erode,Rabi,Onion,2097,5926.08,2.83
+Erode,Rabi,Tomato,4748,10335.06,2.18
+Erode,Rabi,Chili,2673,4460.65,1.67
+Erode,Rabi,Banana,3173,11041.13,3.48
+Erode,Rabi,Coconut,3211,7275.31,2.27
+Erode,Rabi,Black Gram,4777,9493.1,1.99
+Erode,Rabi,Green Gram,1580,3412.12,2.16
+Erode,Rabi,Bengal Gram,3707,10025.17,2.7
+Erode,Rabi,Brinjal,832,1471.05,1.77
+Erode,Rabi,Okra,1623,2329.4,1.44
+Erode,Rabi,Tapioca,4558,13509.21,2.96
+Erode,Rabi,Horse Gram,592,1708.81,2.89
+Erode,Summer,Rice,3338,5951.85,1.78
+Erode,Summer,Maize,1745,3714.79,2.13
+Erode,Summer,Sorghum,3863,6232.44,1.61
+Erode,Summer,Finger Millet,1142,3190.17,2.79
+Erode,Summer,Pearl Millet,2244,5372.77,2.39
+Erode,Summer,Foxtail Millet,2400,4966.56,2.07
+Erode,Summer,Groundnut,979,3318.72,3.39
+Erode,Summer,Sunflower,4738,15955.16,3.37
+Erode,Summer,Sesame,2561,8665.58,3.38
+Erode,Summer,Cotton,2279,3297.8,1.45
+Erode,Summer,Sugarcane,2642,5033.44,1.91
+Erode,Summer,Turmeric,4245,12563.09,2.96
+Erode,Summer,Onion,3177,7036.62,2.21
+Erode,Summer,Tomato,1155,1470.87,1.27
+Erode,Summer,Chili,2271,3902.43,1.72
+Erode,Summer,Banana,4472,6764.99,1.51
+Erode,Summer,Coconut,3081,3802.82,1.23
+Erode,Summer,Black Gram,2448,4635.7,1.89
+Erode,Summer,Green Gram,2859,8277.06,2.9
+Erode,Summer,Bengal Gram,1209,3463.01,2.86
+Erode,Summer,Brinjal,2536,8467.61,3.34
+Erode,Summer,Okra,2451,6630.1,2.71
+Erode,Summer,Tapioca,1925,5712.09,2.97
+Erode,Summer,Horse Gram,4099,12587.94,3.07
+The Nilgiris,Kharif,Rice,786,1034.42,1.32
+The Nilgiris,Kharif,Maize,4372,7919.97,1.81
+The Nilgiris,Kharif,Sorghum,3325,6397.55,1.92
+The Nilgiris,Kharif,Finger Millet,2438,3571.29,1.46
+The Nilgiris,Kharif,Pearl Millet,4501,7902.69,1.76
+The Nilgiris,Kharif,Foxtail Millet,3693,10914.63,2.96
+The Nilgiris,Kharif,Groundnut,3146,4607.94,1.46
+The Nilgiris,Kharif,Sunflower,1522,2596.71,1.71
+The Nilgiris,Kharif,Sesame,4758,13482.23,2.83
+The Nilgiris,Kharif,Cotton,2818,4335.79,1.54
+The Nilgiris,Kharif,Sugarcane,3327,5096.68,1.53
+The Nilgiris,Kharif,Turmeric,1472,3314.99,2.25
+The Nilgiris,Kharif,Onion,1353,4063.27,3.0
+The Nilgiris,Kharif,Tomato,4564,9623.84,2.11
+The Nilgiris,Kharif,Chili,2793,9108.86,3.26
+The Nilgiris,Kharif,Banana,1783,4753.91,2.67
+The Nilgiris,Kharif,Coconut,3236,4882.55,1.51
+The Nilgiris,Kharif,Black Gram,924,2695.95,2.92
+The Nilgiris,Kharif,Green Gram,797,2105.15,2.64
+The Nilgiris,Kharif,Bengal Gram,4140,12515.97,3.02
+The Nilgiris,Kharif,Brinjal,4361,14991.36,3.44
+The Nilgiris,Kharif,Okra,4252,6202.2,1.46
+The Nilgiris,Kharif,Tapioca,3321,9281.66,2.79
+The Nilgiris,Kharif,Horse Gram,4719,13440.06,2.85
+The Nilgiris,Rabi,Rice,3653,5661.03,1.55
+The Nilgiris,Rabi,Maize,3737,10938.57,2.93
+The Nilgiris,Rabi,Sorghum,2571,7324.47,2.85
+The Nilgiris,Rabi,Finger Millet,1883,5828.1,3.1
+The Nilgiris,Rabi,Pearl Millet,2093,4309.11,2.06
+The Nilgiris,Rabi,Foxtail Millet,4286,6874.7,1.6
+The Nilgiris,Rabi,Groundnut,4459,12575.06,2.82
+The Nilgiris,Rabi,Sunflower,512,1426.93,2.79
+The Nilgiris,Rabi,Sesame,4019,11044.12,2.75
+The Nilgiris,Rabi,Cotton,1953,4596.63,2.35
+The Nilgiris,Rabi,Sugarcane,3635,7390.45,2.03
+The Nilgiris,Rabi,Turmeric,1320,4091.74,3.1
+The Nilgiris,Rabi,Onion,3664,5904.41,1.61
+The Nilgiris,Rabi,Tomato,3255,9293.03,2.86
+The Nilgiris,Rabi,Chili,4956,6729.43,1.36
+The Nilgiris,Rabi,Banana,4493,11916.83,2.65
+The Nilgiris,Rabi,Coconut,3745,9888.73,2.64
+The Nilgiris,Rabi,Black Gram,2669,7660.25,2.87
+The Nilgiris,Rabi,Green Gram,3287,7357.97,2.24
+The Nilgiris,Rabi,Bengal Gram,2068,4800.33,2.32
+The Nilgiris,Rabi,Brinjal,3116,4113.03,1.32
+The Nilgiris,Rabi,Okra,1374,4631.29,3.37
+The Nilgiris,Rabi,Tapioca,3647,5342.42,1.46
+The Nilgiris,Rabi,Horse Gram,2303,7209.47,3.13
+The Nilgiris,Summer,Rice,4232,10539.79,2.49
+The Nilgiris,Summer,Maize,4391,7140.51,1.63
+The Nilgiris,Summer,Sorghum,3815,7122.51,1.87
+The Nilgiris,Summer,Finger Millet,4593,14728.25,3.21
+The Nilgiris,Summer,Pearl Millet,1323,3327.22,2.51
+The Nilgiris,Summer,Foxtail Millet,853,1810.17,2.12
+The Nilgiris,Summer,Groundnut,829,2873.87,3.47
+The Nilgiris,Summer,Sunflower,3196,7729.81,2.42
+The Nilgiris,Summer,Sesame,2079,2942.48,1.42
+The Nilgiris,Summer,Cotton,3446,5815.01,1.69
+The Nilgiris,Summer,Sugarcane,1331,2967.12,2.23
+The Nilgiris,Summer,Turmeric,831,2287.75,2.75
+The Nilgiris,Summer,Onion,1580,4144.78,2.62
+The Nilgiris,Summer,Tomato,4692,8467.35,1.8
+The Nilgiris,Summer,Chili,4489,14266.39,3.18
+The Nilgiris,Summer,Banana,4630,13990.7,3.02
+The Nilgiris,Summer,Coconut,4088,7306.14,1.79
+The Nilgiris,Summer,Black Gram,3212,5841.66,1.82
+The Nilgiris,Summer,Green Gram,574,1390.47,2.42
+The Nilgiris,Summer,Bengal Gram,1861,5174.03,2.78
+The Nilgiris,Summer,Brinjal,3003,4746.26,1.58
+The Nilgiris,Summer,Okra,2585,4260.59,1.65
+The Nilgiris,Summer,Tapioca,2090,6873.47,3.29
+The Nilgiris,Summer,Horse Gram,793,2282.43,2.88
+Theni,Kharif,Rice,1937,3471.41,1.79
+Theni,Kharif,Maize,3669,7206.41,1.96
+Theni,Kharif,Sorghum,4709,11899.07,2.53
+Theni,Kharif,Finger Millet,3522,11843.72,3.36
+Theni,Kharif,Pearl Millet,4053,13880.73,3.42
+Theni,Kharif,Foxtail Millet,2488,7215.18,2.9
+Theni,Kharif,Groundnut,2371,3783.09,1.6
+Theni,Kharif,Sunflower,2146,6375.67,2.97
+Theni,Kharif,Sesame,2083,4681.99,2.25
+Theni,Kharif,Cotton,551,921.33,1.67
+Theni,Kharif,Sugarcane,3781,11952.44,3.16
+Theni,Kharif,Turmeric,3222,4173.23,1.3
+Theni,Kharif,Onion,4519,12920.7,2.86
+Theni,Kharif,Tomato,2231,2893.6,1.3
+Theni,Kharif,Chili,1509,3187.7,2.11
+Theni,Kharif,Banana,3753,7110.62,1.89
+Theni,Kharif,Coconut,4109,9933.72,2.42
+Theni,Kharif,Black Gram,4603,6997.0,1.52
+Theni,Kharif,Green Gram,1127,1980.81,1.76
+Theni,Kharif,Bengal Gram,1970,5731.99,2.91
+Theni,Kharif,Brinjal,4406,12240.73,2.78
+Theni,Kharif,Okra,3098,6197.16,2.0
+Theni,Kharif,Tapioca,3485,11047.54,3.17
+Theni,Kharif,Horse Gram,4656,13315.36,2.86
+Theni,Rabi,Rice,2694,8543.2,3.17
+Theni,Rabi,Maize,2574,5852.76,2.27
+Theni,Rabi,Sorghum,3780,9724.31,2.57
+Theni,Rabi,Finger Millet,1690,5503.39,3.26
+Theni,Rabi,Pearl Millet,4305,8177.52,1.9
+Theni,Rabi,Foxtail Millet,1316,4075.98,3.1
+Theni,Rabi,Groundnut,3952,6243.78,1.58
+Theni,Rabi,Sunflower,4093,8877.11,2.17
+Theni,Rabi,Sesame,2518,6533.29,2.59
+Theni,Rabi,Cotton,3503,9470.52,2.7
+Theni,Rabi,Sugarcane,4131,9959.21,2.41
+Theni,Rabi,Turmeric,4964,10691.74,2.15
+Theni,Rabi,Onion,4781,12342.55,2.58
+Theni,Rabi,Tomato,658,1487.08,2.26
+Theni,Rabi,Chili,4138,13488.79,3.26
+Theni,Rabi,Banana,2521,8064.17,3.2
+Theni,Rabi,Coconut,911,1500.65,1.65
+Theni,Rabi,Black Gram,1267,3931.59,3.1
+Theni,Rabi,Green Gram,1620,2316.31,1.43
+Theni,Rabi,Bengal Gram,2895,3509.34,1.21
+Theni,Rabi,Brinjal,4922,8817.03,1.79
+Theni,Rabi,Okra,3695,11432.92,3.09
+Theni,Rabi,Tapioca,4113,8673.25,2.11
+Theni,Rabi,Horse Gram,3206,10547.23,3.29
+Theni,Summer,Rice,4752,10604.45,2.23
+Theni,Summer,Maize,4125,13209.61,3.2
+Theni,Summer,Sorghum,1061,1364.47,1.29
+Theni,Summer,Finger Millet,4061,9148.25,2.25
+Theni,Summer,Pearl Millet,3360,6357.81,1.89
+Theni,Summer,Foxtail Millet,4903,14959.12,3.05
+Theni,Summer,Groundnut,2377,3549.3,1.49
+Theni,Summer,Sunflower,1569,5458.38,3.48
+Theni,Summer,Sesame,1328,3208.75,2.42
+Theni,Summer,Cotton,3717,4675.71,1.26
+Theni,Summer,Sugarcane,3523,5028.61,1.43
+Theni,Summer,Turmeric,1778,5100.19,2.87
+Theni,Summer,Onion,2109,3305.61,1.57
+Theni,Summer,Tomato,3569,8777.19,2.46
+Theni,Summer,Chili,3861,8214.68,2.13
+Theni,Summer,Banana,1903,4816.65,2.53
+Theni,Summer,Coconut,4095,8879.31,2.17
+Theni,Summer,Black Gram,3132,7932.9,2.53
+Theni,Summer,Green Gram,2990,8620.8,2.88
+Theni,Summer,Bengal Gram,1650,5251.02,3.18
+Theni,Summer,Brinjal,2815,5118.82,1.82
+Theni,Summer,Okra,1707,2068.24,1.21
+Theni,Summer,Tapioca,3207,10462.26,3.26
+Theni,Summer,Horse Gram,2035,3187.11,1.57
+Dindigul,Kharif,Rice,2419,5410.19,2.24
+Dindigul,Kharif,Maize,3802,10700.16,2.81
+Dindigul,Kharif,Sorghum,3037,6078.53,2.0
+Dindigul,Kharif,Finger Millet,1716,4048.75,2.36
+Dindigul,Kharif,Pearl Millet,4602,7926.04,1.72
+Dindigul,Kharif,Foxtail Millet,4090,7326.28,1.79
+Dindigul,Kharif,Groundnut,2236,5993.57,2.68
+Dindigul,Kharif,Sunflower,2419,6319.57,2.61
+Dindigul,Kharif,Sesame,739,2399.11,3.25
+Dindigul,Kharif,Cotton,4011,5375.19,1.34
+Dindigul,Kharif,Sugarcane,4397,13325.8,3.03
+Dindigul,Kharif,Turmeric,898,1315.65,1.47
+Dindigul,Kharif,Onion,4863,6410.45,1.32
+Dindigul,Kharif,Tomato,3223,6076.25,1.89
+Dindigul,Kharif,Chili,4814,16305.54,3.39
+Dindigul,Kharif,Banana,3356,11565.9,3.45
+Dindigul,Kharif,Coconut,1321,1654.36,1.25
+Dindigul,Kharif,Black Gram,2397,4312.5,1.8
+Dindigul,Kharif,Green Gram,3431,5778.84,1.68
+Dindigul,Kharif,Bengal Gram,3484,6729.27,1.93
+Dindigul,Kharif,Brinjal,2758,8310.34,3.01
+Dindigul,Kharif,Okra,3713,7721.31,2.08
+Dindigul,Kharif,Tapioca,4825,11920.17,2.47
+Dindigul,Kharif,Horse Gram,4515,5460.62,1.21
+Dindigul,Rabi,Rice,3312,9515.77,2.87
+Dindigul,Rabi,Maize,2473,3516.16,1.42
+Dindigul,Rabi,Sorghum,4212,13475.5,3.2
+Dindigul,Rabi,Finger Millet,2688,5398.21,2.01
+Dindigul,Rabi,Pearl Millet,2802,9141.84,3.26
+Dindigul,Rabi,Foxtail Millet,4416,13437.44,3.04
+Dindigul,Rabi,Groundnut,2150,4714.46,2.19
+Dindigul,Rabi,Sunflower,500,1222.04,2.44
+Dindigul,Rabi,Sesame,1976,3616.15,1.83
+Dindigul,Rabi,Cotton,1159,2274.38,1.96
+Dindigul,Rabi,Sugarcane,536,777.07,1.45
+Dindigul,Rabi,Turmeric,1999,4731.37,2.37
+Dindigul,Rabi,Onion,1069,3464.57,3.24
+Dindigul,Rabi,Tomato,2956,5966.13,2.02
+Dindigul,Rabi,Chili,540,928.66,1.72
+Dindigul,Rabi,Banana,2876,8358.72,2.91
+Dindigul,Rabi,Coconut,4100,8317.97,2.03
+Dindigul,Rabi,Black Gram,2490,3319.42,1.33
+Dindigul,Rabi,Green Gram,2051,2724.23,1.33
+Dindigul,Rabi,Bengal Gram,3800,5155.79,1.36
+Dindigul,Rabi,Brinjal,4717,16008.72,3.39
+Dindigul,Rabi,Okra,2317,5359.69,2.31
+Dindigul,Rabi,Tapioca,1755,2255.63,1.29
+Dindigul,Rabi,Horse Gram,2322,6516.97,2.81
+Dindigul,Summer,Rice,3463,5006.76,1.45
+Dindigul,Summer,Maize,4229,6339.52,1.5
+Dindigul,Summer,Sorghum,3677,8064.92,2.19
+Dindigul,Summer,Finger Millet,2220,2982.27,1.34
+Dindigul,Summer,Pearl Millet,4418,12975.11,2.94
+Dindigul,Summer,Foxtail Millet,2153,4553.64,2.12
+Dindigul,Summer,Groundnut,4941,6512.07,1.32
+Dindigul,Summer,Sunflower,4863,12201.06,2.51
+Dindigul,Summer,Sesame,1189,2090.27,1.76
+Dindigul,Summer,Cotton,2993,7137.44,2.38
+Dindigul,Summer,Sugarcane,2365,5964.32,2.52
+Dindigul,Summer,Turmeric,1590,2552.41,1.61
+Dindigul,Summer,Onion,3115,8417.0,2.7
+Dindigul,Summer,Tomato,4095,9381.44,2.29
+Dindigul,Summer,Chili,4667,12076.69,2.59
+Dindigul,Summer,Banana,1519,5308.22,3.49
+Dindigul,Summer,Coconut,3401,7513.95,2.21
+Dindigul,Summer,Black Gram,2746,3747.81,1.36
+Dindigul,Summer,Green Gram,912,1453.55,1.59
+Dindigul,Summer,Bengal Gram,3304,9111.99,2.76
+Dindigul,Summer,Brinjal,936,1631.94,1.74
+Dindigul,Summer,Okra,4213,12498.58,2.97
+Dindigul,Summer,Tapioca,3217,4646.39,1.44
+Dindigul,Summer,Horse Gram,836,1105.3,1.32
+Sivaganga,Kharif,Rice,2758,8288.26,3.01
+Sivaganga,Kharif,Maize,2473,5381.36,2.18
+Sivaganga,Kharif,Sorghum,4113,11240.08,2.73
+Sivaganga,Kharif,Finger Millet,852,1079.71,1.27
+Sivaganga,Kharif,Pearl Millet,660,2217.76,3.36
+Sivaganga,Kharif,Foxtail Millet,3711,7923.09,2.14
+Sivaganga,Kharif,Groundnut,2579,6880.12,2.67
+Sivaganga,Kharif,Sunflower,982,1849.17,1.88
+Sivaganga,Kharif,Sesame,2288,3638.21,1.59
+Sivaganga,Kharif,Cotton,3589,5576.88,1.55
+Sivaganga,Kharif,Sugarcane,1522,4491.66,2.95
+Sivaganga,Kharif,Turmeric,3976,12941.4,3.25
+Sivaganga,Kharif,Onion,919,2315.33,2.52
+Sivaganga,Kharif,Tomato,4868,10430.51,2.14
+Sivaganga,Kharif,Chili,4689,15878.74,3.39
+Sivaganga,Kharif,Banana,729,1177.48,1.62
+Sivaganga,Kharif,Coconut,4437,9540.86,2.15
+Sivaganga,Kharif,Black Gram,2368,2947.66,1.24
+Sivaganga,Kharif,Green Gram,2851,5320.05,1.87
+Sivaganga,Kharif,Bengal Gram,2209,2839.55,1.29
+Sivaganga,Kharif,Brinjal,1045,2136.22,2.04
+Sivaganga,Kharif,Okra,1787,4742.67,2.65
+Sivaganga,Kharif,Tapioca,4648,15352.44,3.3
+Sivaganga,Kharif,Horse Gram,4547,7662.52,1.69
+Sivaganga,Rabi,Rice,1034,2439.21,2.36
+Sivaganga,Rabi,Maize,1302,2298.85,1.77
+Sivaganga,Rabi,Sorghum,3733,5075.65,1.36
+Sivaganga,Rabi,Finger Millet,964,1640.48,1.7
+Sivaganga,Rabi,Pearl Millet,4392,6776.63,1.54
+Sivaganga,Rabi,Foxtail Millet,4922,9651.51,1.96
+Sivaganga,Rabi,Groundnut,3189,8442.35,2.65
+Sivaganga,Rabi,Sunflower,3919,12481.65,3.18
+Sivaganga,Rabi,Sesame,575,1216.34,2.12
+Sivaganga,Rabi,Cotton,1153,3957.33,3.43
+Sivaganga,Rabi,Sugarcane,4222,7926.52,1.88
+Sivaganga,Rabi,Turmeric,2271,6317.26,2.78
+Sivaganga,Rabi,Onion,3808,10198.99,2.68
+Sivaganga,Rabi,Tomato,3917,13017.52,3.32
+Sivaganga,Rabi,Chili,1630,4523.51,2.78
+Sivaganga,Rabi,Banana,4489,14991.91,3.34
+Sivaganga,Rabi,Coconut,2769,5157.67,1.86
+Sivaganga,Rabi,Black Gram,3837,6454.56,1.68
+Sivaganga,Rabi,Green Gram,2189,3067.2,1.4
+Sivaganga,Rabi,Bengal Gram,4292,8789.35,2.05
+Sivaganga,Rabi,Brinjal,1095,3813.01,3.48
+Sivaganga,Rabi,Okra,1705,4821.34,2.83
+Sivaganga,Rabi,Tapioca,1200,3852.99,3.21
+Sivaganga,Rabi,Horse Gram,2573,4509.22,1.75
+Sivaganga,Summer,Rice,728,1120.05,1.54
+Sivaganga,Summer,Maize,2157,5744.25,2.66
+Sivaganga,Summer,Sorghum,1710,2287.4,1.34
+Sivaganga,Summer,Finger Millet,2877,5676.81,1.97
+Sivaganga,Summer,Pearl Millet,2341,4320.95,1.85
+Sivaganga,Summer,Foxtail Millet,3416,10137.61,2.97
+Sivaganga,Summer,Groundnut,2703,7634.24,2.82
+Sivaganga,Summer,Sunflower,1271,4065.9,3.2
+Sivaganga,Summer,Sesame,2915,6143.93,2.11
+Sivaganga,Summer,Cotton,4756,16145.88,3.39
+Sivaganga,Summer,Sugarcane,4465,7350.17,1.65
+Sivaganga,Summer,Turmeric,3274,7665.21,2.34
+Sivaganga,Summer,Onion,2273,4486.62,1.97
+Sivaganga,Summer,Tomato,1266,2062.63,1.63
+Sivaganga,Summer,Chili,4140,10648.38,2.57
+Sivaganga,Summer,Banana,2283,6917.5,3.03
+Sivaganga,Summer,Coconut,4363,7707.72,1.77
+Sivaganga,Summer,Black Gram,3131,4820.36,1.54
+Sivaganga,Summer,Green Gram,4247,10735.53,2.53
+Sivaganga,Summer,Bengal Gram,4327,13671.64,3.16
+Sivaganga,Summer,Brinjal,3929,11332.14,2.88
+Sivaganga,Summer,Okra,2734,8438.86,3.09
+Sivaganga,Summer,Tapioca,3393,9023.54,2.66
+Sivaganga,Summer,Horse Gram,1611,4363.41,2.71
+Ramanathapuram,Kharif,Rice,2725,4781.84,1.75
+Ramanathapuram,Kharif,Maize,3071,10191.21,3.32
+Ramanathapuram,Kharif,Sorghum,2549,8807.92,3.46
+Ramanathapuram,Kharif,Finger Millet,1942,3364.09,1.73
+Ramanathapuram,Kharif,Pearl Millet,1352,3403.95,2.52
+Ramanathapuram,Kharif,Foxtail Millet,622,2146.2,3.45
+Ramanathapuram,Kharif,Groundnut,1483,2833.73,1.91
+Ramanathapuram,Kharif,Sunflower,989,1873.07,1.89
+Ramanathapuram,Kharif,Sesame,1230,3950.7,3.21
+Ramanathapuram,Kharif,Cotton,4707,12050.79,2.56
+Ramanathapuram,Kharif,Sugarcane,1846,3228.82,1.75
+Ramanathapuram,Kharif,Turmeric,634,1781.0,2.81
+Ramanathapuram,Kharif,Onion,1543,5014.05,3.25
+Ramanathapuram,Kharif,Tomato,982,2176.47,2.22
+Ramanathapuram,Kharif,Chili,2214,7007.93,3.17
+Ramanathapuram,Kharif,Banana,3066,9657.16,3.15
+Ramanathapuram,Kharif,Coconut,1046,2791.6,2.67
+Ramanathapuram,Kharif,Black Gram,3518,8206.32,2.33
+Ramanathapuram,Kharif,Green Gram,4001,13974.52,3.49
+Ramanathapuram,Kharif,Bengal Gram,2026,6262.16,3.09
+Ramanathapuram,Kharif,Brinjal,3673,4523.01,1.23
+Ramanathapuram,Kharif,Okra,3866,7403.58,1.92
+Ramanathapuram,Kharif,Tapioca,2734,3353.54,1.23
+Ramanathapuram,Kharif,Horse Gram,3503,7421.27,2.12
+Ramanathapuram,Rabi,Rice,2200,7160.23,3.25
+Ramanathapuram,Rabi,Maize,4730,7325.24,1.55
+Ramanathapuram,Rabi,Sorghum,2066,4117.59,1.99
+Ramanathapuram,Rabi,Finger Millet,4930,9680.01,1.96
+Ramanathapuram,Rabi,Pearl Millet,4601,7561.34,1.64
+Ramanathapuram,Rabi,Foxtail Millet,2772,9206.97,3.32
+Ramanathapuram,Rabi,Groundnut,647,2099.83,3.25
+Ramanathapuram,Rabi,Sunflower,3525,6195.32,1.76
+Ramanathapuram,Rabi,Sesame,3294,5593.92,1.7
+Ramanathapuram,Rabi,Cotton,2965,3823.16,1.29
+Ramanathapuram,Rabi,Sugarcane,1308,2502.44,1.91
+Ramanathapuram,Rabi,Turmeric,2964,8909.94,3.01
+Ramanathapuram,Rabi,Onion,1392,3615.66,2.6
+Ramanathapuram,Rabi,Tomato,4197,10594.31,2.52
+Ramanathapuram,Rabi,Chili,3566,5854.17,1.64
+Ramanathapuram,Rabi,Banana,650,1317.15,2.03
+Ramanathapuram,Rabi,Coconut,1591,3768.82,2.37
+Ramanathapuram,Rabi,Black Gram,4875,14450.04,2.96
+Ramanathapuram,Rabi,Green Gram,2564,5830.02,2.27
+Ramanathapuram,Rabi,Bengal Gram,4982,6312.86,1.27
+Ramanathapuram,Rabi,Brinjal,4224,5909.4,1.4
+Ramanathapuram,Rabi,Okra,1457,4241.3,2.91
+Ramanathapuram,Rabi,Tapioca,2618,6081.46,2.32
+Ramanathapuram,Rabi,Horse Gram,1770,4273.14,2.41
+Ramanathapuram,Summer,Rice,2429,4039.58,1.66
+Ramanathapuram,Summer,Maize,2181,4962.52,2.28
+Ramanathapuram,Summer,Sorghum,3925,11334.71,2.89
+Ramanathapuram,Summer,Finger Millet,1204,4195.36,3.48
+Ramanathapuram,Summer,Pearl Millet,3834,10707.87,2.79
+Ramanathapuram,Summer,Foxtail Millet,4548,12433.28,2.73
+Ramanathapuram,Summer,Groundnut,4369,13788.87,3.16
+Ramanathapuram,Summer,Sunflower,1293,2664.31,2.06
+Ramanathapuram,Summer,Sesame,2626,3512.22,1.34
+Ramanathapuram,Summer,Cotton,2162,2893.08,1.34
+Ramanathapuram,Summer,Sugarcane,4907,8715.68,1.78
+Ramanathapuram,Summer,Turmeric,1729,2546.25,1.47
+Ramanathapuram,Summer,Onion,3781,12400.8,3.28
+Ramanathapuram,Summer,Tomato,2113,6739.51,3.19
+Ramanathapuram,Summer,Chili,4962,8786.88,1.77
+Ramanathapuram,Summer,Banana,920,2379.67,2.59
+Ramanathapuram,Summer,Coconut,2964,4972.47,1.68
+Ramanathapuram,Summer,Black Gram,3560,7148.45,2.01
+Ramanathapuram,Summer,Green Gram,4279,9794.81,2.29
+Ramanathapuram,Summer,Bengal Gram,2475,4979.09,2.01
+Ramanathapuram,Summer,Brinjal,3805,12925.71,3.4
+Ramanathapuram,Summer,Okra,2378,4359.93,1.83
+Ramanathapuram,Summer,Tapioca,1958,5402.99,2.76
+Ramanathapuram,Summer,Horse Gram,3438,5573.86,1.62
+Tirunelveli,Kharif,Rice,2216,2749.99,1.24
+Tirunelveli,Kharif,Maize,1496,3102.5,2.07
+Tirunelveli,Kharif,Sorghum,1852,5952.63,3.21
+Tirunelveli,Kharif,Finger Millet,4015,10484.04,2.61
+Tirunelveli,Kharif,Pearl Millet,3902,13580.35,3.48
+Tirunelveli,Kharif,Foxtail Millet,1298,2114.24,1.63
+Tirunelveli,Kharif,Groundnut,3724,6889.57,1.85
+Tirunelveli,Kharif,Sunflower,4543,13347.17,2.94
+Tirunelveli,Kharif,Sesame,1550,5059.21,3.26
+Tirunelveli,Kharif,Cotton,2828,8738.74,3.09
+Tirunelveli,Kharif,Sugarcane,3702,10774.89,2.91
+Tirunelveli,Kharif,Turmeric,1381,3039.72,2.2
+Tirunelveli,Kharif,Onion,3270,6050.67,1.85
+Tirunelveli,Kharif,Tomato,2827,9387.79,3.32
+Tirunelveli,Kharif,Chili,860,1945.41,2.26
+Tirunelveli,Kharif,Banana,3266,9405.35,2.88
+Tirunelveli,Kharif,Coconut,4245,14722.71,3.47
+Tirunelveli,Kharif,Black Gram,4348,12711.43,2.92
+Tirunelveli,Kharif,Green Gram,2385,7449.65,3.12
+Tirunelveli,Kharif,Bengal Gram,2066,5970.61,2.89
+Tirunelveli,Kharif,Brinjal,2668,5464.7,2.05
+Tirunelveli,Kharif,Okra,4173,5128.36,1.23
+Tirunelveli,Kharif,Tapioca,1644,3353.37,2.04
+Tirunelveli,Kharif,Horse Gram,3109,4498.79,1.45
+Tirunelveli,Rabi,Rice,3031,6232.43,2.06
+Tirunelveli,Rabi,Maize,1372,4041.03,2.95
+Tirunelveli,Rabi,Sorghum,4712,12251.72,2.6
+Tirunelveli,Rabi,Finger Millet,500,938.46,1.88
+Tirunelveli,Rabi,Pearl Millet,4172,10280.27,2.46
+Tirunelveli,Rabi,Foxtail Millet,2401,5378.3,2.24
+Tirunelveli,Rabi,Groundnut,1883,5575.46,2.96
+Tirunelveli,Rabi,Sunflower,3350,11015.25,3.29
+Tirunelveli,Rabi,Sesame,1735,4697.41,2.71
+Tirunelveli,Rabi,Cotton,1913,4595.94,2.4
+Tirunelveli,Rabi,Sugarcane,569,1012.25,1.78
+Tirunelveli,Rabi,Turmeric,4675,5974.74,1.28
+Tirunelveli,Rabi,Onion,2133,5733.58,2.69
+Tirunelveli,Rabi,Tomato,1402,2326.84,1.66
+Tirunelveli,Rabi,Chili,1064,2643.61,2.48
+Tirunelveli,Rabi,Banana,3204,4524.25,1.41
+Tirunelveli,Rabi,Coconut,3101,6697.59,2.16
+Tirunelveli,Rabi,Black Gram,4184,12510.08,2.99
+Tirunelveli,Rabi,Green Gram,3653,7023.78,1.92
+Tirunelveli,Rabi,Bengal Gram,4941,13213.9,2.67
+Tirunelveli,Rabi,Brinjal,1853,2826.44,1.53
+Tirunelveli,Rabi,Okra,1099,3198.58,2.91
+Tirunelveli,Rabi,Tapioca,4740,15184.43,3.2
+Tirunelveli,Rabi,Horse Gram,2399,7691.97,3.21
+Tirunelveli,Summer,Rice,3684,6633.58,1.8
+Tirunelveli,Summer,Maize,4112,11527.39,2.8
+Tirunelveli,Summer,Sorghum,3511,8019.45,2.28
+Tirunelveli,Summer,Finger Millet,921,3204.55,3.48
+Tirunelveli,Summer,Pearl Millet,1305,4400.28,3.37
+Tirunelveli,Summer,Foxtail Millet,3585,4740.22,1.32
+Tirunelveli,Summer,Groundnut,683,1006.67,1.47
+Tirunelveli,Summer,Sunflower,3425,4210.41,1.23
+Tirunelveli,Summer,Sesame,4686,15490.78,3.31
+Tirunelveli,Summer,Cotton,4615,13197.32,2.86
+Tirunelveli,Summer,Sugarcane,4574,13371.47,2.92
+Tirunelveli,Summer,Turmeric,3346,11151.09,3.33
+Tirunelveli,Summer,Onion,509,1046.6,2.06
+Tirunelveli,Summer,Tomato,2926,4302.46,1.47
+Tirunelveli,Summer,Chili,4622,15397.78,3.33
+Tirunelveli,Summer,Banana,589,1101.67,1.87
+Tirunelveli,Summer,Coconut,4107,7585.58,1.85
+Tirunelveli,Summer,Black Gram,3632,6592.59,1.82
+Tirunelveli,Summer,Green Gram,2744,9124.43,3.33
+Tirunelveli,Summer,Bengal Gram,2352,3861.83,1.64
+Tirunelveli,Summer,Brinjal,3961,12119.86,3.06
+Tirunelveli,Summer,Okra,3652,8916.9,2.44
+Tirunelveli,Summer,Tapioca,1007,2405.87,2.39
+Tirunelveli,Summer,Horse Gram,1867,3512.14,1.88
+Thoothukudi,Kharif,Rice,4018,10891.01,2.71
+Thoothukudi,Kharif,Maize,1429,3001.6,2.1
+Thoothukudi,Kharif,Sorghum,2285,7293.36,3.19
+Thoothukudi,Kharif,Finger Millet,4390,7747.18,1.76
+Thoothukudi,Kharif,Pearl Millet,4653,15766.14,3.39
+Thoothukudi,Kharif,Foxtail Millet,4470,7602.18,1.7
+Thoothukudi,Kharif,Groundnut,1580,3782.31,2.39
+Thoothukudi,Kharif,Sunflower,2691,6201.72,2.3
+Thoothukudi,Kharif,Sesame,4127,13449.63,3.26
+Thoothukudi,Kharif,Cotton,4493,10697.89,2.38
+Thoothukudi,Kharif,Sugarcane,2563,3748.19,1.46
+Thoothukudi,Kharif,Turmeric,3068,5515.48,1.8
+Thoothukudi,Kharif,Onion,1499,3062.97,2.04
+Thoothukudi,Kharif,Tomato,1768,3131.78,1.77
+Thoothukudi,Kharif,Chili,2855,7975.69,2.79
+Thoothukudi,Kharif,Banana,2991,8831.6,2.95
+Thoothukudi,Kharif,Coconut,2080,6504.19,3.13
+Thoothukudi,Kharif,Black Gram,1300,2562.3,1.97
+Thoothukudi,Kharif,Green Gram,3734,6136.32,1.64
+Thoothukudi,Kharif,Bengal Gram,4747,14640.91,3.08
+Thoothukudi,Kharif,Brinjal,3392,5246.2,1.55
+Thoothukudi,Kharif,Okra,1945,6702.22,3.45
+Thoothukudi,Kharif,Tapioca,2397,7282.6,3.04
+Thoothukudi,Kharif,Horse Gram,1811,5713.23,3.15
+Thoothukudi,Rabi,Rice,1273,3210.69,2.52
+Thoothukudi,Rabi,Maize,2166,4259.04,1.97
+Thoothukudi,Rabi,Sorghum,2481,3742.8,1.51
+Thoothukudi,Rabi,Finger Millet,2689,9216.42,3.43
+Thoothukudi,Rabi,Pearl Millet,4678,11983.76,2.56
+Thoothukudi,Rabi,Foxtail Millet,4405,15151.34,3.44
+Thoothukudi,Rabi,Groundnut,1513,3948.6,2.61
+Thoothukudi,Rabi,Sunflower,3000,4666.39,1.56
+Thoothukudi,Rabi,Sesame,3982,8130.74,2.04
+Thoothukudi,Rabi,Cotton,2484,6014.51,2.42
+Thoothukudi,Rabi,Sugarcane,4548,10959.31,2.41
+Thoothukudi,Rabi,Turmeric,919,1236.28,1.35
+Thoothukudi,Rabi,Onion,612,1355.29,2.21
+Thoothukudi,Rabi,Tomato,4712,8114.69,1.72
+Thoothukudi,Rabi,Chili,704,2439.31,3.46
+Thoothukudi,Rabi,Banana,515,1084.44,2.11
+Thoothukudi,Rabi,Coconut,2041,6899.25,3.38
+Thoothukudi,Rabi,Black Gram,3738,11000.44,2.94
+Thoothukudi,Rabi,Green Gram,1070,2738.39,2.56
+Thoothukudi,Rabi,Bengal Gram,4899,6557.56,1.34
+Thoothukudi,Rabi,Brinjal,3355,10267.24,3.06
+Thoothukudi,Rabi,Okra,3072,9096.31,2.96
+Thoothukudi,Rabi,Tapioca,4293,9537.46,2.22
+Thoothukudi,Rabi,Horse Gram,2613,6728.48,2.58
+Thoothukudi,Summer,Rice,657,2092.72,3.19
+Thoothukudi,Summer,Maize,816,2079.34,2.55
+Thoothukudi,Summer,Sorghum,3917,13113.59,3.35
+Thoothukudi,Summer,Finger Millet,1849,3086.06,1.67
+Thoothukudi,Summer,Pearl Millet,4477,12918.83,2.89
+Thoothukudi,Summer,Foxtail Millet,2882,9509.77,3.3
+Thoothukudi,Summer,Groundnut,1208,2505.36,2.07
+Thoothukudi,Summer,Sunflower,798,1413.45,1.77
+Thoothukudi,Summer,Sesame,4081,11660.76,2.86
+Thoothukudi,Summer,Cotton,3760,8245.16,2.19
+Thoothukudi,Summer,Sugarcane,4686,15305.14,3.27
+Thoothukudi,Summer,Turmeric,3673,7766.69,2.11
+Thoothukudi,Summer,Onion,4674,13276.25,2.84
+Thoothukudi,Summer,Tomato,946,1544.8,1.63
+Thoothukudi,Summer,Chili,3768,9249.4,2.45
+Thoothukudi,Summer,Banana,866,2457.14,2.84
+Thoothukudi,Summer,Coconut,4871,6999.85,1.44
+Thoothukudi,Summer,Black Gram,4061,14116.87,3.48
+Thoothukudi,Summer,Green Gram,559,1154.69,2.07
+Thoothukudi,Summer,Bengal Gram,582,962.79,1.65
+Thoothukudi,Summer,Brinjal,1201,2950.32,2.46
+Thoothukudi,Summer,Okra,2037,4937.41,2.42
+Thoothukudi,Summer,Tapioca,3463,7813.28,2.26
+Thoothukudi,Summer,Horse Gram,3136,6297.99,2.01
+Chengalpattu,Kharif,Rice,4072,5708.36,1.4
+Chengalpattu,Kharif,Maize,4673,15962.05,3.42
+Chengalpattu,Kharif,Sorghum,2895,4128.62,1.43
+Chengalpattu,Kharif,Finger Millet,3309,10058.37,3.04
+Chengalpattu,Kharif,Pearl Millet,2744,9072.83,3.31
+Chengalpattu,Kharif,Foxtail Millet,784,1987.75,2.54
+Chengalpattu,Kharif,Groundnut,1259,2404.84,1.91
+Chengalpattu,Kharif,Sunflower,4238,10392.2,2.45
+Chengalpattu,Kharif,Sesame,2248,7798.47,3.47
+Chengalpattu,Kharif,Cotton,4058,6707.99,1.65
+Chengalpattu,Kharif,Sugarcane,4924,13445.97,2.73
+Chengalpattu,Kharif,Turmeric,4931,8398.04,1.7
+Chengalpattu,Kharif,Onion,2740,5027.17,1.83
+Chengalpattu,Kharif,Tomato,2085,5609.64,2.69
+Chengalpattu,Kharif,Chili,1051,3191.4,3.04
+Chengalpattu,Kharif,Banana,1285,3157.77,2.46
+Chengalpattu,Kharif,Coconut,2373,7320.46,3.08
+Chengalpattu,Kharif,Black Gram,830,2231.38,2.69
+Chengalpattu,Kharif,Green Gram,3425,11453.0,3.34
+Chengalpattu,Kharif,Bengal Gram,682,1758.21,2.58
+Chengalpattu,Kharif,Brinjal,4464,9664.49,2.16
+Chengalpattu,Kharif,Okra,1424,2031.27,1.43
+Chengalpattu,Kharif,Tapioca,534,1430.71,2.68
+Chengalpattu,Kharif,Horse Gram,838,1581.76,1.89
+Chengalpattu,Rabi,Rice,2185,4164.49,1.91
+Chengalpattu,Rabi,Maize,4560,7455.28,1.63
+Chengalpattu,Rabi,Sorghum,4960,10498.91,2.12
+Chengalpattu,Rabi,Finger Millet,2129,2901.54,1.36
+Chengalpattu,Rabi,Pearl Millet,2936,9057.22,3.08
+Chengalpattu,Rabi,Foxtail Millet,1681,3246.14,1.93
+Chengalpattu,Rabi,Groundnut,4451,9931.7,2.23
+Chengalpattu,Rabi,Sunflower,4721,10734.95,2.27
+Chengalpattu,Rabi,Sesame,4737,9556.87,2.02
+Chengalpattu,Rabi,Cotton,1327,2066.05,1.56
+Chengalpattu,Rabi,Sugarcane,1900,3701.06,1.95
+Chengalpattu,Rabi,Turmeric,2022,3764.08,1.86
+Chengalpattu,Rabi,Onion,804,1139.06,1.42
+Chengalpattu,Rabi,Tomato,956,2638.29,2.76
+Chengalpattu,Rabi,Chili,547,732.43,1.34
+Chengalpattu,Rabi,Banana,1448,3729.4,2.58
+Chengalpattu,Rabi,Coconut,3049,4752.15,1.56
+Chengalpattu,Rabi,Black Gram,2522,4967.43,1.97
+Chengalpattu,Rabi,Green Gram,621,1823.98,2.94
+Chengalpattu,Rabi,Bengal Gram,4169,10826.61,2.6
+Chengalpattu,Rabi,Brinjal,1724,3729.24,2.16
+Chengalpattu,Rabi,Okra,3094,9599.59,3.1
+Chengalpattu,Rabi,Tapioca,4065,13233.65,3.26
+Chengalpattu,Rabi,Horse Gram,1343,2142.81,1.6
+Chengalpattu,Summer,Rice,4810,16592.97,3.45
+Chengalpattu,Summer,Maize,1818,5017.56,2.76
+Chengalpattu,Summer,Sorghum,4050,6233.45,1.54
+Chengalpattu,Summer,Finger Millet,4346,8335.57,1.92
+Chengalpattu,Summer,Pearl Millet,4892,13866.43,2.83
+Chengalpattu,Summer,Foxtail Millet,4558,5777.6,1.27
+Chengalpattu,Summer,Groundnut,4453,5362.38,1.2
+Chengalpattu,Summer,Sunflower,1932,3110.72,1.61
+Chengalpattu,Summer,Sesame,3637,6972.61,1.92
+Chengalpattu,Summer,Cotton,3484,5895.73,1.69
+Chengalpattu,Summer,Sugarcane,3490,4524.03,1.3
+Chengalpattu,Summer,Turmeric,3028,9730.03,3.21
+Chengalpattu,Summer,Onion,3552,4277.48,1.2
+Chengalpattu,Summer,Tomato,3089,4457.93,1.44
+Chengalpattu,Summer,Chili,3096,8362.42,2.7
+Chengalpattu,Summer,Banana,3328,9708.4,2.92
+Chengalpattu,Summer,Coconut,3749,10722.51,2.86
+Chengalpattu,Summer,Black Gram,2081,4761.02,2.29
+Chengalpattu,Summer,Green Gram,4084,7336.07,1.8
+Chengalpattu,Summer,Bengal Gram,3752,6033.61,1.61
+Chengalpattu,Summer,Brinjal,879,2626.96,2.99
+Chengalpattu,Summer,Okra,1298,2394.02,1.84
+Chengalpattu,Summer,Tapioca,3089,8702.91,2.82
+Chengalpattu,Summer,Horse Gram,1469,1991.41,1.36
+Karur,Kharif,Rice,3669,9596.05,2.62
+Karur,Kharif,Maize,2578,4418.63,1.71
+Karur,Kharif,Sorghum,4167,6692.49,1.61
+Karur,Kharif,Finger Millet,2107,6367.02,3.02
+Karur,Kharif,Pearl Millet,3104,10472.02,3.37
+Karur,Kharif,Foxtail Millet,2837,6155.33,2.17
+Karur,Kharif,Groundnut,4864,16564.71,3.41
+Karur,Kharif,Sunflower,4274,6593.81,1.54
+Karur,Kharif,Sesame,4390,13383.61,3.05
+Karur,Kharif,Cotton,3256,10359.56,3.18
+Karur,Kharif,Sugarcane,2440,5499.01,2.25
+Karur,Kharif,Turmeric,2398,7546.73,3.15
+Karur,Kharif,Onion,1782,4865.36,2.73
+Karur,Kharif,Tomato,1809,4652.12,2.57
+Karur,Kharif,Chili,3848,8585.41,2.23
+Karur,Kharif,Banana,746,2305.17,3.09
+Karur,Kharif,Coconut,4480,14857.08,3.32
+Karur,Kharif,Black Gram,2051,3507.93,1.71
+Karur,Kharif,Green Gram,4975,10900.31,2.19
+Karur,Kharif,Bengal Gram,4447,8987.6,2.02
+Karur,Kharif,Brinjal,3487,4698.66,1.35
+Karur,Kharif,Okra,2706,6879.02,2.54
+Karur,Kharif,Tapioca,4179,5489.68,1.31
+Karur,Kharif,Horse Gram,3606,4545.83,1.26
+Karur,Rabi,Rice,2344,6279.26,2.68
+Karur,Rabi,Maize,2527,4822.94,1.91
+Karur,Rabi,Sorghum,716,2438.41,3.41
+Karur,Rabi,Finger Millet,2675,5070.53,1.9
+Karur,Rabi,Pearl Millet,4638,6333.02,1.37
+Karur,Rabi,Foxtail Millet,541,1028.19,1.9
+Karur,Rabi,Groundnut,2169,7362.19,3.39
+Karur,Rabi,Sunflower,1732,3649.4,2.11
+Karur,Rabi,Sesame,4935,10515.99,2.13
+Karur,Rabi,Cotton,825,1420.15,1.72
+Karur,Rabi,Sugarcane,3646,8067.66,2.21
+Karur,Rabi,Turmeric,597,1161.88,1.95
+Karur,Rabi,Onion,3839,13291.55,3.46
+Karur,Rabi,Tomato,2377,6548.33,2.75
+Karur,Rabi,Chili,855,2671.12,3.12
+Karur,Rabi,Banana,667,2024.21,3.03
+Karur,Rabi,Coconut,4486,7710.71,1.72
+Karur,Rabi,Black Gram,2296,6846.07,2.98
+Karur,Rabi,Green Gram,1829,5141.73,2.81
+Karur,Rabi,Bengal Gram,1158,1803.55,1.56
+Karur,Rabi,Brinjal,706,1545.4,2.19
+Karur,Rabi,Okra,3691,6664.0,1.81
+Karur,Rabi,Tapioca,3304,8183.61,2.48
+Karur,Rabi,Horse Gram,2897,6291.51,2.17
+Karur,Summer,Rice,4295,8548.79,1.99
+Karur,Summer,Maize,2742,7710.3,2.81
+Karur,Summer,Sorghum,2146,7239.37,3.37
+Karur,Summer,Finger Millet,3483,8781.46,2.52
+Karur,Summer,Pearl Millet,989,2649.38,2.68
+Karur,Summer,Foxtail Millet,1430,4606.55,3.22
+Karur,Summer,Groundnut,3152,7661.99,2.43
+Karur,Summer,Sunflower,1174,1850.9,1.58
+Karur,Summer,Sesame,4476,8176.41,1.83
+Karur,Summer,Cotton,838,1895.77,2.26
+Karur,Summer,Sugarcane,526,996.24,1.89
+Karur,Summer,Turmeric,2560,6704.6,2.62
+Karur,Summer,Onion,2319,7224.25,3.12
+Karur,Summer,Tomato,3748,10033.02,2.68
+Karur,Summer,Chili,3145,8523.9,2.71
+Karur,Summer,Banana,2257,3103.75,1.38
+Karur,Summer,Coconut,1466,4440.89,3.03
+Karur,Summer,Black Gram,1965,3187.78,1.62
+Karur,Summer,Green Gram,2463,6384.25,2.59
+Karur,Summer,Bengal Gram,4583,8203.6,1.79
+Karur,Summer,Brinjal,1559,2718.77,1.74
+Karur,Summer,Okra,1742,3630.04,2.08
+Karur,Summer,Tapioca,3865,13434.89,3.48
+Karur,Summer,Horse Gram,2826,5620.22,1.99
+Perambalur,Kharif,Rice,1851,2938.4,1.59
+Perambalur,Kharif,Maize,4293,13447.44,3.13
+Perambalur,Kharif,Sorghum,2611,6488.0,2.48
+Perambalur,Kharif,Finger Millet,1808,2254.51,1.25
+Perambalur,Kharif,Pearl Millet,3940,7134.73,1.81
+Perambalur,Kharif,Foxtail Millet,4983,14061.4,2.82
+Perambalur,Kharif,Groundnut,3680,7668.86,2.08
+Perambalur,Kharif,Sunflower,4538,10998.14,2.42
+Perambalur,Kharif,Sesame,4877,11973.79,2.46
+Perambalur,Kharif,Cotton,1064,3445.44,3.24
+Perambalur,Kharif,Sugarcane,2003,2449.13,1.22
+Perambalur,Kharif,Turmeric,1502,3244.86,2.16
+Perambalur,Kharif,Onion,4715,15839.39,3.36
+Perambalur,Kharif,Tomato,3259,11327.94,3.48
+Perambalur,Kharif,Chili,829,2694.86,3.25
+Perambalur,Kharif,Banana,2767,4735.96,1.71
+Perambalur,Kharif,Coconut,1107,1893.87,1.71
+Perambalur,Kharif,Black Gram,3999,10450.18,2.61
+Perambalur,Kharif,Green Gram,4553,13584.77,2.98
+Perambalur,Kharif,Bengal Gram,1312,1668.83,1.27
+Perambalur,Kharif,Brinjal,566,1122.1,1.98
+Perambalur,Kharif,Okra,2467,4192.02,1.7
+Perambalur,Kharif,Tapioca,4987,6017.11,1.21
+Perambalur,Kharif,Horse Gram,4683,8928.13,1.91
+Perambalur,Rabi,Rice,2539,8195.34,3.23
+Perambalur,Rabi,Maize,3607,9540.85,2.65
+Perambalur,Rabi,Sorghum,4215,14336.21,3.4
+Perambalur,Rabi,Finger Millet,4396,10899.61,2.48
+Perambalur,Rabi,Pearl Millet,2147,5352.06,2.49
+Perambalur,Rabi,Foxtail Millet,3687,7773.58,2.11
+Perambalur,Rabi,Groundnut,1613,2926.4,1.81
+Perambalur,Rabi,Sunflower,772,2080.2,2.69
+Perambalur,Rabi,Sesame,4497,6586.44,1.46
+Perambalur,Rabi,Cotton,2554,6735.93,2.64
+Perambalur,Rabi,Sugarcane,2584,4991.62,1.93
+Perambalur,Rabi,Turmeric,3437,5058.42,1.47
+Perambalur,Rabi,Onion,2403,3869.51,1.61
+Perambalur,Rabi,Tomato,4350,5718.49,1.31
+Perambalur,Rabi,Chili,3035,9824.66,3.24
+Perambalur,Rabi,Banana,4857,11937.96,2.46
+Perambalur,Rabi,Coconut,2715,8561.73,3.15
+Perambalur,Rabi,Black Gram,1819,2763.1,1.52
+Perambalur,Rabi,Green Gram,3382,9195.71,2.72
+Perambalur,Rabi,Bengal Gram,4890,7498.5,1.53
+Perambalur,Rabi,Brinjal,3289,5886.71,1.79
+Perambalur,Rabi,Okra,4820,12185.82,2.53
+Perambalur,Rabi,Tapioca,2265,4597.46,2.03
+Perambalur,Rabi,Horse Gram,4934,11496.55,2.33
+Perambalur,Summer,Rice,4024,7380.58,1.83
+Perambalur,Summer,Maize,4036,11049.0,2.74
+Perambalur,Summer,Sorghum,3275,9703.67,2.96
+Perambalur,Summer,Finger Millet,3406,8642.05,2.54
+Perambalur,Summer,Pearl Millet,778,1083.03,1.39
+Perambalur,Summer,Foxtail Millet,1547,1926.06,1.25
+Perambalur,Summer,Groundnut,4183,12214.82,2.92
+Perambalur,Summer,Sunflower,1105,1741.01,1.58
+Perambalur,Summer,Sesame,2513,3989.38,1.59
+Perambalur,Summer,Cotton,1296,4192.91,3.24
+Perambalur,Summer,Sugarcane,4080,6936.72,1.7
+Perambalur,Summer,Turmeric,3314,7779.02,2.35
+Perambalur,Summer,Onion,3676,9388.93,2.55
+Perambalur,Summer,Tomato,2481,8586.01,3.46
+Perambalur,Summer,Chili,4433,15089.38,3.4
+Perambalur,Summer,Banana,2905,6999.13,2.41
+Perambalur,Summer,Coconut,4822,9273.14,1.92
+Perambalur,Summer,Black Gram,4280,12682.95,2.96
+Perambalur,Summer,Green Gram,1058,2289.1,2.16
+Perambalur,Summer,Bengal Gram,3808,9379.03,2.46
+Perambalur,Summer,Brinjal,3768,5522.36,1.47
+Perambalur,Summer,Okra,4194,11019.53,2.63
+Perambalur,Summer,Tapioca,1983,6579.58,3.32
+Perambalur,Summer,Horse Gram,2964,7225.18,2.44
+Tenkasi,Kharif,Rice,1476,3525.75,2.39
+Tenkasi,Kharif,Maize,1352,3529.28,2.61
+Tenkasi,Kharif,Sorghum,4689,9965.86,2.13
+Tenkasi,Kharif,Finger Millet,3380,8864.6,2.62
+Tenkasi,Kharif,Pearl Millet,672,967.35,1.44
+Tenkasi,Kharif,Foxtail Millet,2228,6002.74,2.69
+Tenkasi,Kharif,Groundnut,1977,5934.65,3.0
+Tenkasi,Kharif,Sunflower,4246,12314.62,2.9
+Tenkasi,Kharif,Sesame,703,2100.33,2.99
+Tenkasi,Kharif,Cotton,2667,4014.42,1.51
+Tenkasi,Kharif,Sugarcane,2321,3813.17,1.64
+Tenkasi,Kharif,Turmeric,1574,2688.16,1.71
+Tenkasi,Kharif,Onion,4316,6442.57,1.49
+Tenkasi,Kharif,Tomato,1421,4752.69,3.34
+Tenkasi,Kharif,Chili,3781,12301.71,3.25
+Tenkasi,Kharif,Banana,867,1538.36,1.77
+Tenkasi,Kharif,Coconut,4169,8927.44,2.14
+Tenkasi,Kharif,Black Gram,1937,5631.22,2.91
+Tenkasi,Kharif,Green Gram,3893,6762.34,1.74
+Tenkasi,Kharif,Bengal Gram,3357,5248.26,1.56
+Tenkasi,Kharif,Brinjal,4081,7374.9,1.81
+Tenkasi,Kharif,Okra,4061,14198.74,3.5
+Tenkasi,Kharif,Tapioca,1430,2913.45,2.04
+Tenkasi,Kharif,Horse Gram,4201,14562.74,3.47
+Tenkasi,Rabi,Rice,1197,3686.87,3.08
+Tenkasi,Rabi,Maize,2511,3017.92,1.2
+Tenkasi,Rabi,Sorghum,2166,3887.55,1.79
+Tenkasi,Rabi,Finger Millet,1888,2901.76,1.54
+Tenkasi,Rabi,Pearl Millet,4636,10144.67,2.19
+Tenkasi,Rabi,Foxtail Millet,3013,4544.63,1.51
+Tenkasi,Rabi,Groundnut,1615,4847.63,3.0
+Tenkasi,Rabi,Sunflower,4657,11574.17,2.49
+Tenkasi,Rabi,Sesame,1795,3592.32,2.0
+Tenkasi,Rabi,Cotton,4428,10060.49,2.27
+Tenkasi,Rabi,Sugarcane,2480,4451.21,1.79
+Tenkasi,Rabi,Turmeric,2347,6152.77,2.62
+Tenkasi,Rabi,Onion,1985,4773.77,2.4
+Tenkasi,Rabi,Tomato,3107,8949.49,2.88
+Tenkasi,Rabi,Chili,2216,7593.02,3.43
+Tenkasi,Rabi,Banana,3298,10511.97,3.19
+Tenkasi,Rabi,Coconut,3823,12011.37,3.14
+Tenkasi,Rabi,Black Gram,4681,8046.04,1.72
+Tenkasi,Rabi,Green Gram,2378,8317.62,3.5
+Tenkasi,Rabi,Bengal Gram,1879,4972.88,2.65
+Tenkasi,Rabi,Brinjal,2151,2586.94,1.2
+Tenkasi,Rabi,Okra,4194,13889.74,3.31
+Tenkasi,Rabi,Tapioca,759,2472.73,3.26
+Tenkasi,Rabi,Horse Gram,3866,11103.2,2.87
+Tenkasi,Summer,Rice,2997,5892.6,1.97
+Tenkasi,Summer,Maize,3608,9293.5,2.58
+Tenkasi,Summer,Sorghum,1410,2375.56,1.68
+Tenkasi,Summer,Finger Millet,2011,3035.59,1.51
+Tenkasi,Summer,Pearl Millet,4653,6262.9,1.35
+Tenkasi,Summer,Foxtail Millet,4601,14710.87,3.2
+Tenkasi,Summer,Groundnut,4105,12481.17,3.04
+Tenkasi,Summer,Sunflower,3480,9402.19,2.7
+Tenkasi,Summer,Sesame,3834,6758.29,1.76
+Tenkasi,Summer,Cotton,1658,2413.91,1.46
+Tenkasi,Summer,Sugarcane,2040,5437.15,2.67
+Tenkasi,Summer,Turmeric,2306,3341.55,1.45
+Tenkasi,Summer,Onion,2930,4755.03,1.62
+Tenkasi,Summer,Tomato,995,1500.82,1.51
+Tenkasi,Summer,Chili,2199,7639.33,3.47
+Tenkasi,Summer,Banana,2223,7188.8,3.23
+Tenkasi,Summer,Coconut,4342,9405.71,2.17
+Tenkasi,Summer,Black Gram,4548,10895.21,2.4
+Tenkasi,Summer,Green Gram,2402,5815.01,2.42
+Tenkasi,Summer,Bengal Gram,3249,11151.84,3.43
+Tenkasi,Summer,Brinjal,850,2337.84,2.75
+Tenkasi,Summer,Okra,1603,3773.41,2.35
+Tenkasi,Summer,Tapioca,4873,13356.02,2.74
+Tenkasi,Summer,Horse Gram,1328,3852.44,2.9
+Ranipet,Kharif,Rice,782,2285.38,2.92
+Ranipet,Kharif,Maize,940,3246.73,3.45
+Ranipet,Kharif,Sorghum,3999,12468.29,3.12
+Ranipet,Kharif,Finger Millet,2443,3857.38,1.58
+Ranipet,Kharif,Pearl Millet,2695,6337.16,2.35
+Ranipet,Kharif,Foxtail Millet,2738,6602.18,2.41
+Ranipet,Kharif,Groundnut,1078,2840.23,2.63
+Ranipet,Kharif,Sunflower,2151,2751.95,1.28
+Ranipet,Kharif,Sesame,4467,11784.75,2.64
+Ranipet,Kharif,Cotton,2588,4596.62,1.78
+Ranipet,Kharif,Sugarcane,3053,10284.56,3.37
+Ranipet,Kharif,Turmeric,514,1023.92,1.99
+Ranipet,Kharif,Onion,3656,10480.5,2.87
+Ranipet,Kharif,Tomato,2616,3734.43,1.43
+Ranipet,Kharif,Chili,1174,2783.68,2.37
+Ranipet,Kharif,Banana,4388,13661.89,3.11
+Ranipet,Kharif,Coconut,4042,8069.03,2.0
+Ranipet,Kharif,Black Gram,4793,14597.03,3.05
+Ranipet,Kharif,Green Gram,4830,16824.68,3.48
+Ranipet,Kharif,Bengal Gram,747,1707.38,2.29
+Ranipet,Kharif,Brinjal,4234,6340.49,1.5
+Ranipet,Kharif,Okra,4402,9909.08,2.25
+Ranipet,Kharif,Tapioca,1995,2581.71,1.29
+Ranipet,Kharif,Horse Gram,2855,9498.64,3.33
+Ranipet,Rabi,Rice,3376,9816.56,2.91
+Ranipet,Rabi,Maize,4854,11815.44,2.43
+Ranipet,Rabi,Sorghum,3815,10166.03,2.66
+Ranipet,Rabi,Finger Millet,728,1837.34,2.52
+Ranipet,Rabi,Pearl Millet,3163,9139.2,2.89
+Ranipet,Rabi,Foxtail Millet,4892,14395.78,2.94
+Ranipet,Rabi,Groundnut,4019,6341.14,1.58
+Ranipet,Rabi,Sunflower,2239,3900.57,1.74
+Ranipet,Rabi,Sesame,1152,1794.27,1.56
+Ranipet,Rabi,Cotton,4662,8674.87,1.86
+Ranipet,Rabi,Sugarcane,2738,9435.16,3.45
+Ranipet,Rabi,Turmeric,1099,2287.38,2.08
+Ranipet,Rabi,Onion,2684,5890.17,2.19
+Ranipet,Rabi,Tomato,2514,7398.43,2.94
+Ranipet,Rabi,Chili,4381,10032.16,2.29
+Ranipet,Rabi,Banana,4714,14185.08,3.01
+Ranipet,Rabi,Coconut,3313,10948.71,3.3
+Ranipet,Rabi,Black Gram,4176,5114.27,1.22
+Ranipet,Rabi,Green Gram,3150,5217.81,1.66
+Ranipet,Rabi,Bengal Gram,4080,10197.92,2.5
+Ranipet,Rabi,Brinjal,3731,11304.73,3.03
+Ranipet,Rabi,Okra,4644,14687.69,3.16
+Ranipet,Rabi,Tapioca,2697,6359.86,2.36
+Ranipet,Rabi,Horse Gram,2372,7574.59,3.19
+Ranipet,Summer,Rice,3896,10554.15,2.71
+Ranipet,Summer,Maize,983,2507.21,2.55
+Ranipet,Summer,Sorghum,1710,3991.67,2.33
+Ranipet,Summer,Finger Millet,2596,5603.72,2.16
+Ranipet,Summer,Pearl Millet,1601,3544.3,2.21
+Ranipet,Summer,Foxtail Millet,4648,14021.17,3.02
+Ranipet,Summer,Groundnut,1048,2399.32,2.29
+Ranipet,Summer,Sunflower,3736,7596.84,2.03
+Ranipet,Summer,Sesame,3962,7923.39,2.0
+Ranipet,Summer,Cotton,2241,2955.47,1.32
+Ranipet,Summer,Sugarcane,4340,12595.28,2.9
+Ranipet,Summer,Turmeric,3844,7539.08,1.96
+Ranipet,Summer,Onion,2515,7884.34,3.13
+Ranipet,Summer,Tomato,1186,3662.09,3.09
+Ranipet,Summer,Chili,2988,9283.25,3.11
+Ranipet,Summer,Banana,734,1881.85,2.56
+Ranipet,Summer,Coconut,4080,6854.18,1.68
+Ranipet,Summer,Black Gram,4260,13682.0,3.21
+Ranipet,Summer,Green Gram,2391,4266.79,1.78
+Ranipet,Summer,Bengal Gram,1375,3618.0,2.63
+Ranipet,Summer,Brinjal,1928,6038.76,3.13
+Ranipet,Summer,Okra,1042,3001.0,2.88
+Ranipet,Summer,Tapioca,608,1079.86,1.78
+Ranipet,Summer,Horse Gram,1192,3804.76,3.19
